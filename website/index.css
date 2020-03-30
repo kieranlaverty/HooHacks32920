@@ -12,8 +12,16 @@ body{
 .row{
   padding: 5px;
   background-color: #6ABEA7;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 .col{
   padding: 5px;
   background: #9FFFF5;
+}
+footer{
+  background-color: #6ABEA7;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
