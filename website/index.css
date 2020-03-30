@@ -10,5 +10,10 @@ body{
   background-color: #7CFFC4;
 }
 .row{
+  padding: 5px;
   background-color: #6ABEA7;
+}
+.col{
+  padding: 5px;
+  background: #9FFFF5;
 }
